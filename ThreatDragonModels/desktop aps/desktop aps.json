@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "desktop aps",
+    "owner": "flan",
+    "description": "sfnsfn"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "desktop",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "sfa",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "sflk"
+  }
+}
